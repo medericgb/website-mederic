@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Header {
+  color: black;
+}
+
+.Header ul {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px auto;
+  width: 300px;
+  list-style-type: none;
+}
